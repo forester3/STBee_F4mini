@@ -12,4 +12,5 @@ cd ..
 make clean
 make BOARD=STBee_F4mini
 ~~~
-And then ?, Welcome my wiki page: https://github.com/forester3/STBee_F4mini/wiki
+And then, Welcome to
+my wiki page: https://github.com/forester3/STBee_F4mini/wiki
