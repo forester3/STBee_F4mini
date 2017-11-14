@@ -9,5 +9,7 @@ Build the firmware using:
 cd micropython/ports/stm32/boards
 git clone https://github.com/forester3/STBee_F4mini
 cd ..
+make clean
 make BOARD=STBee_F4mini
 ~~~
+And then ?, Welcome my wiki page: https://github.com/forester3/STBee_F4mini/wiki
