@@ -46,8 +46,6 @@
 /* Exported types ------------------------------------------------------------*/
 /* Exported constants --------------------------------------------------------*/
 
-#define USE_USB_FS
-
 /* ########################## Module Selection ############################## */
 /**
   * @brief This is the list of modules to be used in the HAL driver 
@@ -79,7 +77,7 @@
 #define HAL_RNG_MODULE_ENABLED
 #define HAL_RTC_MODULE_ENABLED
 /* #define HAL_SAI_MODULE_ENABLED */
-/* #define HAL_SD_MODULE_ENABLED */
+#define HAL_SD_MODULE_ENABLED
 #define HAL_SPI_MODULE_ENABLED
 #define HAL_TIM_MODULE_ENABLED
 #define HAL_UART_MODULE_ENABLED
